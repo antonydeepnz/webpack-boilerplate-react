@@ -1,0 +1,24 @@
+# IDE files
+.idea/*
+.tm_properties
+
+# dependencies
+/node_modules
+
+# cache
+/.cache-loader
+
+# production
+/build
+dist
+
+# misc
+.DS_Store
+.env.local
+
+npm-debug.log*
+
+.vscode
+.prettierignore
+.prettierrc.js
+jsconfig.json
